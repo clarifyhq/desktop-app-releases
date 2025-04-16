@@ -4,7 +4,7 @@
 
 Welcome to the official **Clarify** desktop app releases repository! This repository hosts the latest versions of the **Clarify** desktop app, designed to enhance your productivity with AI-powered tools.  
 
-Visit our website at [https://getclarify.ai/](https://getclarify.ai/) to learn more about Clarify and its features.
+Visit our website at [https://clarify.ai/](https://clarify.ai/) to learn more about Clarify and its features.
 
 ## Supported platform
 Currently, the **Clarify** desktop app is available for:
@@ -16,11 +16,11 @@ Currently, the **Clarify** desktop app is available for:
 3. Open the downloaded file and follow the installation instructions to add the app to your Applications folder.
 
 ## Stay updated
-Check out our [website](https://getclarify.ai/) for news, updates, and tutorials on making the most out of Clarify.
+Check out our [website](https://clarify.ai/) for news, updates, and tutorials on making the most out of Clarify.
 
 ## Need help?
 If you encounter any issues or have questions:
-- Visit our [Support Page](https://getclarify.ai/support) for FAQs and guides.
-- Contact us at **support@getclarify.ai** for assistance.
+- Visit our [Support Page](https://clarify.ai/support) for FAQs and guides.
+- Contact us at **support@clarify.ai** for assistance.
 
 Thank you for choosing Clarify! 🚀
