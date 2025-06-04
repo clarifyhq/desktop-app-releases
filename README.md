@@ -11,7 +11,7 @@ Currently, the **Clarify** desktop app is available for:
 - **macOS**: Version 11 (Big Sur) and above
 
 ## How to download and install
-1. Go to the [Releases](./releases) page of this repository.
+1. Go to the [Releases](../../releases) page of this repository.
 2. Download the latest `.dmg` file for macOS.
 3. Open the downloaded file and follow the installation instructions to add the app to your Applications folder.
 
